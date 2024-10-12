@@ -1,0 +1,68 @@
+html {
+  /* scroll-behavior: initial !important; */
+  overflow:scroll !important;
+}
+body {
+  background-color: #f8f9fa !important;
+  color: rgb(43, 43, 43);
+  /* overflow: hidden !important; */
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+/* ////////////////////////////// ESTILOS ////////////////////////////// */
+.cover-container {
+  height: 83vh !important;
+}
+
+.px-3 {
+  position: relative;
+  top: 25%;
+}
+
+/*==  ALBUM ==*/
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+#contadorCarrito1 {
+  padding-left: 10px !important;
+}
+.btn-carrito{
+  width: 80px !important;
+  padding-left: 10px !important;
+}
+
+.menu-fondo {
+  background-color: #fff !important;
+}
+/* ////////////////////////////// CARRITO ////////////////////////////// */
+.alto-input{
+  height: 35px !important;
+}
+.in-nombre {
+  width: 100% !important;
+  height: 50% !important;
+  font-size: 15px!important;
+}
+.in-cant {
+  font-size: 12px!important;
+  padding-right: 20px !important;
+}
+.in-icono {
+  font-size: 14px!important;
+  padding-right: 15px !important;
+}
+.in-precio{
+  width: 20% !important;
+}
