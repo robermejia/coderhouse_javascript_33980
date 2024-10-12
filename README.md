@@ -2,7 +2,7 @@
 Proyecto subido el día 10/09/2022 para el curso de Javascript.
 
 ## Enlace de Proyecto desde GitHub Pages (rama master)
-- [Enlace de proyecto](https://robermejia.github.io/desafiosJavascript/)
+- [Enlace de proyecto](https://robermejia.github.io/coderhouse_javascript_33980/)
 
 ## Construido con
 - Visual Studio Code
@@ -16,8 +16,8 @@ Proyecto subido el día 10/09/2022 para el curso de Javascript.
 ## Autor
 - [Roberto Agustín Mejía Collazos](https://github.com/robermejia)
 
-## Desafios
-- [Enlace de todos los desafios](https://github.com/robermejia/desafiosJavascript/tree/desafios)
+## Desafios (Rama desafios)
+- [Enlace de todos los desafios](https://github.com/robermejia/coderhouse_javascript_33980/tree/desafios)
 
 
 
